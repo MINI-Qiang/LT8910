@@ -1,0 +1,38 @@
+############
+# DataTypes (KEYWORD1)
+############
+
+LT8900 KEYWORD1
+DataRate KEYWORD1
+
+#######################
+# Methods and Functions (KEYWORD2)
+#######################
+
+begin KEYWORD2
+setChannel KEYWORD2
+getChannel KEYWORD2
+setDataRate KEYWORD2
+setCurrentControl KEYWORD2
+getDataRate KEYWORD2
+readRegister KEYWORD2
+writeRegister KEYWORD2
+sleep KEYWORD2
+whatsUp KEYWORD2
+available KEYWORD2
+getIs8910 KEYWORD2
+read KEYWORD2
+startListening KEYWORD2
+setClock KEYWORD2
+sendPacket KEYWORD2
+setSyncWord KEYWORD2
+setSyncWordLength KEYWORD2
+
+######################
+# CONSTANTS (LITERAL1)
+######################
+
+LT8900_1MBPS
+LT8900_250KBPS
+LT8900_125KBPS
+LT8900_12KBPS
